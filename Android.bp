@@ -1,6 +1,10 @@
 // Copyright (C) 2026 The KleeUI Project
 // SPDX-License-Identifier: Apache-2.0
 
+package {
+    default_applicable_licenses: ["Android-Apache-2.0"],
+}
+
 android_app {
     name: "KleeCamera",
     manifest: "app/src/main/AndroidManifest.xml",
